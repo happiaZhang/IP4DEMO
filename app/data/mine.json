@@ -1,0 +1,5 @@
+[
+  {"term": "93D+1Y", "code": "136426.SH", "name": "16电投01", "direction": "BID", "price": 4.75, "quantity": 5000, "valuation": 5.0401, "duration": 1.166, "rating": "AAA", "time": 1520011800, "source": "QQ", "mode": "匿名"},
+  {"term": "2.12", "code": "1580055.IB", "name": "15苏国信通", "direction": "OFR", "price": 5.32, "quantity": 3000, "valuation": 5.2939, "duration": 1.8822, "rating": "AAA", "time": 1520010900, "source": "手动", "mode": "实名"},
+  {"term": "2.16Y", "code": "101554014", "name": "15北部湾MTN001", "direction": "BID", "price": 6.5, "quantity": 5000, "valuation": 6.3475, "duration": 1.8815, "rating": "AA+", "time": 1520008200, "source": "QQ", "mode": "匿名"}
+]

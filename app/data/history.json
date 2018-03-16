@@ -1,0 +1,18 @@
+[
+  {"time": "2017.08.06", "term": "2.52Y", "code": 124884, "direction": "Bid", "price": 6.1, "volume": 5000, "valuation": 6.0046, "trader": "匿名", "availableCredit": 4000, "transactions": 97, "blackList": 1},
+  {"time": "2017.09.27", "term": "2.51Y", "code": 123020, "direction": "Bid", "price": 6.6, "volume": 3000, "valuation": 6.5173, "trader": "中国银行-陈儒", "availableCredit": 4000, "transactions": 55, "blackList": 1},
+  {"time": "2017.10.08", "term": "2.45Y", "code": 124854, "direction": "Bid", "price": 6.5, "volume": 5000, "valuation": 6.4973, "trader": "匿名", "availableCredit": 6000, "transactions": 37, "blackList": 1},
+  {"time": "2017.12.01", "term": "2.39Y", "code": 124831, "direction": "Bid", "price": 5.7, "volume": 3000, "valuation": 5.6578, "trader": "方正基金-单喆", "availableCredit": 5000, "transactions": 46, "blackList": 0},
+  {"time": "2017.06.14", "term": "265D", "code": 124314, "direction": "Bid", "price": 5.35, "volume": 6650, "valuation": 6.0072, "trader": "匿名", "availableCredit": 5800, "transactions": 66, "blackList": 1},
+  {"time": "2017.09.25", "term": "2.49Y", "code": 124314, "direction": "Bid", "price": 6.74, "volume": 6000, "valuation": 5.2373, "trader": "创金合信-彭敏妍", "availableCredit": 3000, "transactions": 49, "blackList": 1},
+  {"time": "2017.08.08", "term": "2.50Y", "code": 124314, "direction": "Bid", "price": 1.71, "volume": 2000, "valuation": 7.5587, "trader": "创金合信-彭敏妍", "availableCredit": 3000, "transactions": 49, "blackList": 1},
+  {"time": "2017.09.22", "term": "8.13Y", "code": 124314, "direction": "Bid", "price": 0.8, "volume": 1000, "valuation": 6.8849, "trader": "匿名", "availableCredit": 5800, "transactions": 36, "blackList": 0},
+  {"time": "2017.08.06", "term": "2.50Y", "code": 1180116, "direction": "Bid", "price": 0.06, "volume": 1000, "valuation": 6.7067, "trader": "创金合信-彭敏妍", "availableCredit": 3000, "transactions": 49, "blackList": 1},
+  {"time": "2017.07.31", "term": "4.59Y", "code": 1180116, "direction": "Bid", "price": 0.96, "volume": 2000, "valuation": 6.0044, "trader": "诺安基金-杨皓雪", "availableCredit": 5900, "transactions": 12, "blackList": 1},
+  {"time": "2017.09.18", "term": "265D", "code": 1180116, "direction": "Bid", "price": 1.29, "volume": 2000, "valuation": 5.8523, "trader": "诺安基金-杨皓雪", "availableCredit": 5900, "transactions": 12, "blackList": 1},
+  {"time": "2017.10.17", "term": "4.99Y", "code": 1180116, "direction": "Bid", "price": 1.3, "volume": 3000, "valuation": 7.1544, "trader": "匿名", "availableCredit": 6700, "transactions": 23, "blackList": 1},
+  {"time": "2017.09.22", "term": "2.76Y", "code": 1180101, "direction": "Bid", "price": 4.52, "volume": 3000, "valuation": 6.2557, "trader": "诺安基金-杨皓雪", "availableCredit": 5900, "transactions": 12, "blackList": 1},
+  {"time": "2017.08.26", "term": "106D", "code": 1180101, "direction": "Bid", "price": 7.02, "volume": 2000, "valuation": 4.9572, "trader": "融通基金-李静", "availableCredit": 7600, "transactions": 22, "blackList": 0},
+  {"time": "2017.12.15", "term": "1.52Y", "code": 1180101, "direction": "Bid", "price": 4.08, "volume": 2000, "valuation": 4.1895, "trader": "融通基金-李静", "availableCredit": 7600, "transactions": 22, "blackList": 0},
+  {"time": "2017.09.13", "term": "217D", "code": 1180101, "direction": "Bid", "price": 8.57, "volume": 2000, "valuation": 4.9883, "trader": "匿名", "availableCredit": 6000, "transactions": 60, "blackList": 1}
+]

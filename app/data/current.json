@@ -1,0 +1,15 @@
+[
+  {"time": "07:19:39", "term": "2.40Y", "code": 124314, "direction": "Bid", "price": 5.7, "volume": 2000, "valuation": 5.6964, "trader": "匿名", "availableCredit": 5000, "transactions": 70, "blackList": 1},
+  {"time": "15:36:58", "term": "2.40Y", "code": 124314, "direction": "Bid", "price": 5.75, "volume": 3000, "valuation": 5.6964, "trader": "交通银行-曾珍", "availableCredit": 9000, "transactions": 89, "blackList": 0},
+  {"time": "07:39:28", "term": "5.24Y", "code": 1180116, "direction": "Bid", "price": 6.1, "volume": 5000, "valuation": 8.5695, "trader": "匿名", "availableCredit": 7000, "transactions": 14, "blackList": 0},
+  {"time": "08:24:18", "term": "5.24Y", "code": 1180116, "direction": "Bid", "price": 6.13, "volume": 4000, "valuation": 8.5695, "trader": "交通银行-曾珍", "availableCredit": 9000, "transactions": 89, "blackList": 0},
+  {"time": "13:38:53", "term": "5.24Y", "code": 1180116, "direction": "Bid", "price": 6.19, "volume": 3000, "valuation": 8.5695, "trader": "匿名", "availableCredit": 1500, "transactions": 35, "blackList": 0},
+  {"time": "07:44:36", "term": "1.50Y", "code": 1180101, "direction": "Bid", "price": 4.34, "volume": 7000, "valuation": 5.3823, "trader": "交通银行-曾珍", "availableCredit": 9000, "transactions": 89, "blackList": 0},
+  {"time": "09:35:23", "term": "1.50Y", "code": 1180101, "direction": "Bid", "price": 4.37, "volume": 1000, "valuation": 5.3823, "trader": "匿名", "availableCredit": 1000, "transactions": 90, "blackList": 1},
+  {"time": "13:25:19", "term": "1.50Y", "code": 1180101, "direction": "Bid", "price": 4.35, "volume": 6000, "valuation": 5.3823, "trader": "交通银行-曾珍", "availableCredit": 9000, "transactions": 89, "blackList": 0},
+  {"time": "16:09:47", "term": "1.50Y", "code": 1180101, "direction": "Bid", "price": 4.38, "volume": 5000, "valuation": 5.3823, "trader": "匿名", "availableCredit": 1000, "transactions": 11, "blackList": 0},
+  {"time": "08:35:48", "term": "45D", "code": 11762040, "direction": "Bid", "price": 4.85, "volume": 4000, "valuation": 4.1337, "trader": "诺安基金-向丙浩", "availableCredit": 4500, "transactions": 29, "blackList": 0},
+  {"time": "10:21:37", "term": "186D", "code": 11762084, "direction": "Bid", "price": 2.47, "volume": 2000, "valuation": 3.6841, "trader": "诺安基金-向丙浩", "availableCredit": 4500, "transactions": 29, "blackList": 0},
+  {"time": "13:17:32", "term": "2.49Y", "code": 101769012, "direction": "Bid", "price": 1.16, "volume": 3000, "valuation": 5.2032, "trader": "诺安基金-向丙浩", "availableCredit": 4500, "transactions": 29, "blackList": 0},
+  {"time": "15:50:09", "term": "4.59Y", "code": 101780009, "direction": "Bid", "price": 1.54, "volume": 2000, "valuation": 6.9802, "trader": "诺安基金-向丙浩", "availableCredit": 4500, "transactions": 29, "blackList": 0}
+]

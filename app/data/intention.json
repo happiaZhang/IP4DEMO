@@ -1,0 +1,11 @@
+[
+  {"term": "2.40Y", "code": "124314.SH", "name": "13筑铁路", "direction": "Ofr", "price": 5.65, "volume": 10000, "rating": "AA/AA", "duration": 1.6903, "valuation": 5.6964, "trader": 3, "real": true},
+  {"term": "268D+2Y", "code": "122490.SH", "name": "15三福01", "direction": "Ofr", "price": 7.22, "volume": 5000, "rating": "AA/AA", "duration": 2.3732, "valuation": 7.259, "trader": 0, "real": false},
+  {"term": "2.57Y+3Y", "code": "122443.SH", "name": "15桂金债", "direction": "Bid", "price": 5, "volume": 4000, "rating": "AA/AA", "duration": 4.5172, "valuation": 7.1778, "trader": 7, "real": true},
+  {"term": "4.21Y", "code": "127208.SH", "name": "15国网01", "direction": "Bid", "price": 5.3, "volume": 1000, "rating": "AAA/AAA", "duration": 3.5692, "valuation": 5.291, "trader": 11, "real": true},
+  {"term": "141D", "code": "1180116.IB", "name": "11三明国投债", "direction": "Ofr", "price": 5.3, "volume": 400, "rating": "AA/AA+", "duration": 0.3812, "valuation": 5.3021, "trader": 2, "real": false},
+  {"term": "3.25Y", "code": "1180101.IB", "name": "11宁交通债", "direction": "Ofr", "price": 5.4, "volume": 5000, "rating": "AA/AA", "duration": 2.7723, "valuation": 5.6354, "trader": 2, "real": false},
+  {"term": "2.12Y", "code": "1380104.IB", "name": "13武城投债", "direction": "Bid", "price": 5.35, "volume": 5000, "rating": "AAA", "duration": 0.9981, "valuation": 5.4007, "trader": 5, "real": true},
+  {"term": "237D", "code": "116494.SZ", "name": "狮桥05B", "direction": "Ofr", "price": 6.1, "volume": 4000, "rating": "AAA/AAA", "duration": 0.6012, "valuation": 6.8248, "trader": 0, "real": false},
+  {"term": "1.82Y", "code": "112232.SZ", "name": "14长证债", "direction": "Bid", "price": 5.4, "volume": 2000, "rating": "AAA", "duration": 1.6854, "valuation": 5.3319, "trader": 9, "real": false}
+]

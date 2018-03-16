@@ -1,0 +1,12 @@
+export default {
+  QUOTE: 'QUOTE',
+  RECEIVE: 'RECEIVE',
+  FRIEND: 'FRIEND',
+  MINE: 'MINE',
+  CURRENT: 'CURRENT',
+  HISTORY: 'HISTORY',
+  BOND: 'BOND',
+  INTENTION: 'INTENTION',
+  MODAL: 'MODAL',
+  QUERY: 'QUERY'
+};

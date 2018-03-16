@@ -1,0 +1,65 @@
+.manage-trader-setting {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .search-wrap {
+    flex: 1;
+  }
+  .manage-trader-btn {
+    padding-left: 20px;
+  }
+}
+
+.manage-trader-filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.manage-bonds {
+  & > label {
+    width: 70px;
+    text-align: left;
+  }
+  & > ul {
+    margin-left: 70px;
+  }
+}
+
+.manage-bond {
+  padding: 4px 12px;
+  background: #e8e8e8;
+  border-radius: 5px;
+  .bond-price {
+    font-weight: bold;
+  }
+  .bond-price-info {
+    color: #1890ff;
+    font-weight: bold;
+  }
+}
+
+.manage-trader-quote {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  height: 225px;
+}
+
+.bond-matched {
+  margin-bottom: 5px;
+  & > ul {
+    margin-left: 0;
+  }
+  .filter-item {
+    min-width: 100px;
+    border-radius: 8px;
+  }
+}
+
+.ant-table-wrapper:before,
+.ant-table-wrapper:after,
+.ant-spin-container:before,
+.ant-spin-container:after {
+  display: none;
+}

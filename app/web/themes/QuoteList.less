@@ -1,0 +1,56 @@
+.direction {
+  display: inline-block;
+  padding: 0 5px;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+
+  &.OFR {
+    background-color: #2459b7;
+  }
+
+  &.BID {
+    background-color: #d77d1d;
+  }
+}
+
+.trader {
+  position: relative;
+  padding-left: 16px;
+  cursor: pointer;
+
+  .anticon {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    display: none;
+    font-size: 12px;
+    color: #1ab394;
+  }
+
+  &:hover {
+    .anticon {
+      display: inline;
+    }
+  }
+}
+
+.fixed-side {
+  display: inline-block;
+  width: 38px;
+  text-align: right;
+}
+
+.flash {
+  animation: flash 1s;
+}
+
+@keyframes flash {
+  from, 50%, to {
+    opacity: 1;
+  }
+
+  25%, 75% {
+    opacity: 0;
+  }
+}

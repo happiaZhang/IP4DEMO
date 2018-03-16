@@ -1,0 +1,48 @@
+.filter-input-wrap {
+  position: relative;
+  padding-right: 50px;
+  overflow: hidden;
+  user-select: none;
+
+  .filter-input-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    text-align: right;
+  }
+
+  .filter-input-item {
+    display: inline-flex;
+    align-items: center;
+    width: 50%;
+  }
+}
+
+.filter-input-btn {
+  & > .ant-btn-sm {
+    background-color: #eab721 !important;
+    border-color: #eab721 !important;
+  }
+}
+
+.filter-input-item {
+  & > label {
+    width: 50px;
+    text-align: right;
+    color: #314659;
+    opacity: .65;
+  }
+
+  & > .ant-btn-sm {
+    margin: 0 5px 0 10px;
+    background-color: #eab721 !important;
+    border-color: #eab721 !important;
+  }
+
+  & > .ant-input-sm {
+    flex: 1;
+    border-color: #eab721;
+    box-shadow: none;
+  }
+}

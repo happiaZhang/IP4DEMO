@@ -1,0 +1,34 @@
+.filter-wrap {
+  user-select: none;
+  & > label {
+    display: inline-block;
+    text-align: right;
+    float: left;
+    width: 50px;
+    color: #314659;
+    opacity: .65;
+  }
+
+  & > ul {
+    margin-bottom: 0;
+    margin-left: 60px;
+    padding: 0;
+    list-style: none;
+  }
+
+  .filter-item {
+    display: inline-block;
+    min-width: 65px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    color: #314659;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+
+    &.active {
+      color: #fff;
+      background-color: #eab721;
+    }
+  }
+}

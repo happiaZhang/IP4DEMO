@@ -1,0 +1,41 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0 40px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  box-shadow: 0 2px 8px #f0f1f2;
+  z-index: 100;
+
+  .header-logo {
+    height: 50px;
+    vertical-align: middle;
+  }
+
+  .header-search {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 64px;
+    vertical-align: middle;
+  }
+}
+
+.header-search {
+  .anticon-search {
+    color: #ced4d9;
+  }
+
+  &.search-wrap .ant-input {
+    width: 200px;
+  }
+}
+
+.header-menu {
+  display: flex;
+  align-items: center;
+}

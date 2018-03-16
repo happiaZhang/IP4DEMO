@@ -1,0 +1,181 @@
+.chat-entry {
+  position: fixed;
+  bottom: 20px;
+  right: 25px;
+  z-index: 100;
+
+  .chat-badge {
+    position: absolute;
+    top: -3px;
+    right: -4px;
+    display: inline-block;
+    width: 16px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #f8ac59;
+    border-radius: 10px;
+  }
+
+  .chat-control {
+    display: block;
+    height: 38px;
+    width: 38px;
+    padding: 9px 8px;
+    text-align: center;
+    color: #fff;
+    background-color: #1ab394;
+    border-radius: 50%;
+  }
+}
+
+.chat-panel {
+  position: fixed;
+  bottom: 20px;
+  right: 75px;
+  display: flex;
+  align-items: stretch;
+  width: 380px;
+  height: 322px;
+  animation: fadeInRight 1s;
+  background: #fff;
+  border: 1px solid #e7eaec;
+  border-radius: 4px;
+}
+
+.chat-room {
+  width: 230px;
+
+  .chat-heading {
+    background: #2f4050;
+    padding: 8px 15px;
+    font-weight: bold;
+    line-height: 20px;
+    color: #fff;
+  }
+
+  small {
+    display: block;
+    opacity: 0.6;
+    font-size: 10px;
+  }
+
+  .chat-content {
+    height: 234px;
+    padding: 15px;
+    overflow: auto;
+  }
+
+  .chat-section {
+    &:after {
+      content: '';
+      display: table;
+      clear: both;
+    }
+  }
+
+  .chat-left {
+    .chat-msg {
+      float: left;
+      background: #1ab394;
+      color: #fff;
+    }
+  }
+
+  .chat-right {
+    small {
+      text-align: right;
+    }
+    .chat-msg {
+      float: right;
+      background: #f3f3f4;
+      color: #676a6c;
+    }
+  }
+
+  .chat-msg {
+    max-width: 80%;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 11px;
+    line-height: 14px;
+    margin-bottom: 10px;
+  }
+
+  .chat-form {
+    padding: 9px;
+  }
+}
+
+.chat-board {
+  flex: 1;
+  border-left: 1px solid #e7eaec;
+
+  .chat-title {
+    margin: 0;
+    padding: 8px 15px;
+    color: #676a6c;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    border-bottom: 1px solid #e7eaec;
+  }
+
+  .chat-body {
+    height: 284px;
+    padding: 0 15px;
+    overflow: auto;
+  }
+
+  .chat-friends {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      position: relative;
+      padding: 10px 0 10px 30px;
+      font-size: 12px;
+      border-bottom: 1px solid #e7eaec;
+      cursor: pointer;
+    }
+
+    .chat-label {
+      position: absolute;
+      top: 10px;
+      left: 5px;
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      line-height: 20px;
+      color: #fff;
+      text-align: center;
+      border-radius: 4px;
+      background-color: #d1dade;
+    }
+
+    .selected {
+      .chat-label {
+        background-color: #1ab394;
+      }
+    }
+  }
+}
+
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}

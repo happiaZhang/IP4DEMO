@@ -1,0 +1,8 @@
+[
+  {"code": "124314.SH", "name": "13筑铁路", "direction": "Ofr", "price": 5.65, "volume": 10000, "trader": "交通银行-曾珍", "status": "pending", "lastTime": "01-30 15:32"},
+  {"code": "122490.SH", "name": "15三福01", "direction": "Ofr", "price": 7.22, "volume": 5000, "trader": "人保资产-黄云", "status": "pending", "lastTime": "01-30 15:27"},
+  {"code": "122443.SH", "name": "15桂金债", "direction": "Bid", "price": 5, "volume": 4000, "trader": "方正基金-杨强", "status": "waiting", "lastTime": "01-30 15:16"},
+  {"code": "127208.SH", "name": "15国网01", "direction": "Bid", "price": 5.3, "volume": 1000, "trader": "中国银行-刘芸芸", "status": "waiting", "lastTime": "01-30 15:05"},
+  {"code": "1180116.IB", "name": "11三明国投债", "direction": "Ofr", "price": 5.3, "volume": 400, "trader": "东方证券-马飞", "status": "close", "lastTime": "01-30 15:03"},
+  {"code": "1180101.IB", "name": "11宁交通债", "direction": "Ofr", "price": 5.4, "volume": 5000, "trader": "兴业银行-刘晶", "status": "close", "lastTime": "01-30 14:06"}
+]
